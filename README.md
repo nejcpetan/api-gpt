@@ -12,7 +12,6 @@ A sleek, local chat interface that connects directly to OpenAI's API. Use premiu
 - Clean, modern interface inspired by ChatGPT
 - File upload support
 - Markdown & code syntax highlighting
-- Mobile responsive
 
 ## ⚠️ Important Note About Costs
 
