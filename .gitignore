@@ -24,6 +24,10 @@
 .DS_Store
 *.pem
 
+# Ignore chat files but keep the folder
+data/chats/*.json
+!data/chats/.gitkeep
+
 # debug
 npm-debug.log*
 yarn-debug.log*
