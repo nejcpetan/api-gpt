@@ -19,7 +19,7 @@ This application uses your OpenAI API credits. **You will be charged based on Op
 
 1. Monitor your usage at [OpenAI's usage dashboard](https://platform.openai.com/usage)
 2. Set up usage limits at [OpenAI's billing settings](https://platform.openai.com/account/billing/limits)
-3. Check current pricing at [OpenAI's pricing page](https://openai.com/pricing)
+3. Check current pricing at [OpenAI's pricing page](https://openai.com/api/pricing/)
 
 ## Installation
 
