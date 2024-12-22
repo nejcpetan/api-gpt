@@ -85,7 +85,7 @@ export const AVAILABLE_MODELS = [
 ## Usage
 
 1. Start a new chat by typing in the message box
-2. Switch between models using the model selector at the bottom left
+2. Switch between models using the model selector at the bottom left - use multiple models at a time and retain the chat history.
 3. Upload files using the paperclip icon
 4. Edit chat titles by hovering over them in the sidebar
 5. Delete chats using the trash icon
@@ -106,6 +106,7 @@ export const AVAILABLE_MODELS = [
 - File uploads are temporary (cleared on server restart)
 - No conversation branching
 - No export/import functionality yet
+- Chat history is not persisted in the database, but it is saved locally in the `data/chats` folder
 
 ## Contributing
 
